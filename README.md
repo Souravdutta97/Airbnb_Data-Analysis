@@ -79,7 +79,7 @@ Here's an introduction to some key aspects of Airbnb data:
 
 (1) Find Distribution Of Airbnb Bookings Price Range.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Distribution of Airbnb Prices.png">
 </p>
 (2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
 <p align="center">
