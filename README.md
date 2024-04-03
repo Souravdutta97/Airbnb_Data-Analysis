@@ -99,7 +99,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (6) Find Total Counts Of Each Room Types in entire NYC.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Total counts of each Room type.png">
 </p>
 (7) Find Stay Requirement counts by Minimum Nights.
 <p align="center">
