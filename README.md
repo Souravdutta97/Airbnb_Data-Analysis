@@ -75,3 +75,45 @@ Here's an introduction to some key aspects of Airbnb data:
 
 (10) Find Best location listing/property location for travelers.
 
+# Based on the report insights ,here are the outcomes of the Dataset :
+
+(1) Find Distribution Of Airbnb Bookings Price Range.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(4) Find Top Neighborhoods and Hosts by Listing/property in entire NYC.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(5) Find the Number Of Active Hosts Per Location by Each Neighborhood Groups.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(6) Find Total Counts Of Each Room Types in entire NYC.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(7) Find Stay Requirement counts by Minimum Nights.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(8) Find the total numbers of Reviews and Maximum Reviews by Each Neighborhood Group.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(9) Find Most reviewed room type in Neighborhood groups per month.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
+(10) Find Best location listing/property location for travelers.
+<p align="center">
+  <img width="600" height="300" src="airbnb_logo.jpeg">
+</p>
