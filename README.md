@@ -83,7 +83,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Total Listing Property Count in each neighburhood group.png">
 </p>
 (3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
 <p align="center">
