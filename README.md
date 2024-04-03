@@ -95,7 +95,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (5) Find the Number Of Active Hosts Per Location by Each Neighborhood Groups.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="No. of active hosts per location.png">
 </p>
 (6) Find Total Counts Of Each Room Types in entire NYC.
 <p align="center">
