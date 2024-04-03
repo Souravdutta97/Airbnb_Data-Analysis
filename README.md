@@ -75,4 +75,3 @@ Here's an introduction to some key aspects of Airbnb data:
 
 (10) Find Best location listing/property location for travelers.
 
-(11) Find Best Location Listing/Property Location For Travelers and Hosts.
