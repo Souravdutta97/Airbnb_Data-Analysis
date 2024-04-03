@@ -103,7 +103,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (7) Find Stay Requirement counts by Minimum Nights.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Stay requirement count by minimum nights.png">
 </p>
 (8) Find the total numbers of Reviews and Maximum Reviews by Each Neighborhood Group.
 <p align="center">
