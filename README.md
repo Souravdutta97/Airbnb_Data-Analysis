@@ -2,6 +2,7 @@
 <p align="center">
   <img width="600" height="300" src="airbnb_logo.jpeg">
 </p>
+
 # Introduction
 
 As the sharing economy continues to reshape the travel and hospitality industries, platforms like Airbnb have become integral to how people experience new destinations. With millions of listings worldwide, Airbnb generates vast amounts of data that can provide valuable insights into travel trends, pricing dynamics, and user preferences.
@@ -23,6 +24,6 @@ Here's an introduction to some key aspects of Airbnb data:
 
 - Geospatial Data: Geospatial data is used to represent the locations of Airbnb listings and help users search for accommodations based on their desired location. This includes latitude and longitude coordinates, neighborhood boundaries, and maps.
 
-Pricing Data: Pricing data provides insights into the cost of accommodations on Airbnb. This may include average nightly rates, seasonal fluctuations in pricing, and any discounts or promotions offered by hosts.
+- Pricing Data: Pricing data provides insights into the cost of accommodations on Airbnb. This may include average nightly rates, seasonal fluctuations in pricing, and any discounts or promotions offered by hosts.
 
-Trends and Insights: Analyzing Airbnb data can reveal trends and patterns in travel behavior, such as popular destinations, peak booking times, and preferences among different demographic groups. These insights can be valuable for both hosts and travelers.
+- Trends and Insights: Analyzing Airbnb data can reveal trends and patterns in travel behavior, such as popular destinations, peak booking times, and preferences among different demographic groups. These insights can be valuable for both hosts and travelers.
