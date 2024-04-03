@@ -91,7 +91,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (4) Find Top Neighborhoods and Hosts by Listing/property in entire NYC.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Top neighborhood listing property in entire NYC.png">
 </p>
 (5) Find the Number Of Active Hosts Per Location by Each Neighborhood Groups.
 <p align="center">
