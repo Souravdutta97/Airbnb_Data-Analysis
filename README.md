@@ -115,5 +115,14 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (10) Find Best location listing/property location for travelers.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Best location listing_property for travelers.png">
 </p>
+
+# Conclusion :
+Our exploratory data analysis (EDA) of Airbnb data using pandas, numpy, matplotlib, and seaborn has provided valuable insights into the dynamics of the Airbnb market. Through descriptive statistics, data visualization, and trend analysis, we have gained a deeper understanding of key factors influencing pricing, occupancy rates, and user behavior.
+
+## Authors
+
+- [@Souravdutta97](https://github.com/Souravdutta97)
+
+Sourav Dutta - Data Analyst
