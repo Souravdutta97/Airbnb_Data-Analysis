@@ -107,7 +107,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (8) Find the total numbers of Reviews and Maximum Reviews by Each Neighborhood Group.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Total no. of reviews of each neighburhood groups.png">
 </p>
 (9) Find Most reviewed room type in Neighborhood groups per month.
 <p align="center">
