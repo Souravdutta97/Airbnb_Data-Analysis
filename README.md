@@ -87,7 +87,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Average Price by each Neighboehood roup.png">
 </p>
 (4) Find Top Neighborhoods and Hosts by Listing/property in entire NYC.
 <p align="center">
