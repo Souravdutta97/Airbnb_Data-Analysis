@@ -111,7 +111,7 @@ Here's an introduction to some key aspects of Airbnb data:
 </p>
 (9) Find Most reviewed room type in Neighborhood groups per month.
 <p align="center">
-  <img width="600" height="300" src="airbnb_logo.jpeg">
+  <img width="600" height="300" src="Most reviewd room type in neighburhood groups per month.png">
 </p>
 (10) Find Best location listing/property location for travelers.
 <p align="center">
