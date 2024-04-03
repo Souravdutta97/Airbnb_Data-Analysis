@@ -27,3 +27,52 @@ Here's an introduction to some key aspects of Airbnb data:
 - Pricing Data: Pricing data provides insights into the cost of accommodations on Airbnb. This may include average nightly rates, seasonal fluctuations in pricing, and any discounts or promotions offered by hosts.
 
 - Trends and Insights: Analyzing Airbnb data can reveal trends and patterns in travel behavior, such as popular destinations, peak booking times, and preferences among different demographic groups. These insights can be valuable for both hosts and travelers.
+
+ # This Project Includes :
+
+  ## Data Understanding
+  ## Data Processing
+  ## Data Analysing
+  ## Data Visualization
+
+# Explanation of columns :
+
+- Listing_id :- This is a unique identifier for each listing in the dataset.
+- Listing_name :- This is the name or title of the listing, as it appears on the Airbnb website.
+- Host_id :- This is a unique identifier for each host in the dataset.
+- Host_name :- This is the name of the host as it appears on the Airbnb website.
+- Neighbourhood_group :- This is a grouping of neighborhoods in New York City, such as Manhattan or Brooklyn.
+- Neighbourhood :- This is the specific neighborhood in which the listing is located.
+- Latitude :- This is the geographic latitude of the listing.
+- Longitude :- This is the geographic longitude of the listing.
+- Room_type :- This is the type of room or property being offered, such as an entire home, private room, shared room.
+- Price :- This is the nightly price for the listing, in US dollars.
+- Minimum_nights :- This is the minimum number of nights that a guest must stay at the listing.
+- Total_reviews :- This is the total number of reviews that the listing has received.
+- Reviews_per_month :- This is the average number of reviews that the listing receives per month
+- Host_listings_count :- This is the total number of listings that the host has on Airbnb.
+- Availability_365 :- This is the number of days in the next 365 days that the listing is available for booking.
+
+# Problem Statements :
+
+(1) Find Distribution Of Airbnb Bookings Price Range.
+
+(2) Find Total Listing/Property count in Each Neighborhood Group in NYC.
+
+(3) Find Average Price Of listings/property in each Neighborhood Groups and also Neighborhoods.
+
+(4) Find Top Neighborhoods and Hosts by Listing/property in entire NYC.
+
+(5) Find the Number Of Active Hosts Per Location by Each Neighborhood Groups.
+
+(6) Find Total Counts Of Each Room Types in entire NYC.
+
+(7) Find Stay Requirement counts by Minimum Nights.
+
+(8) Find the total numbers of Reviews and Maximum Reviews by Each Neighborhood Group.
+
+(9) Find Most reviewed room type in Neighborhood groups per month.
+
+(10) Find Best location listing/property location for travelers.
+
+(11) Find Best Location Listing/Property Location For Travelers and Hosts.
